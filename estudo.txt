@@ -1,4 +1,4 @@
-Definição de um Sistema Operacional:
+﻿Definição de um Sistema Operacional:
 – Conjunto de rotinas executadas pelo processador
 com a função de controlar o funcionamento de
 um computador, gerenciando a utilização e o
@@ -24,6 +24,7 @@ Linguagem de Máquina
 Microprogramação
 Circuitos Eletrônicos
 
+LEGAL
 
 (NUMA): a cada processador é associado um banco de memória.
 (SMP): os processadores compartilham a mesma memória
