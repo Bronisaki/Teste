@@ -1,0 +1,30 @@
+Definição de um Sistema Operacional:
+– Conjunto de rotinas executadas pelo processador
+com a função de controlar o funcionamento de
+um computador, gerenciando a utilização e o
+compartilhamento de recursos de processador,
+de memória e de dispositivos de Entrada/Saída
+(E/S)
+
+
+Máquina Virtual:
+– É um ambiente simulado, criado pelo sistema
+operacional, para tornar transparente o acesso
+aos recursos do sistema computacional, além de
+tornar a atividade de uso do microcomputador
+mais eficiente e com menores erros.
+
+
+Máquina de Níveis:
+Aplicações
+Utilitários
+Usuários
+Sistema Operacional
+Linguagem de Máquina
+Microprogramação
+Circuitos Eletrônicos
+
+
+(NUMA): a cada processador é associado um banco de memória.
+(SMP): os processadores compartilham a mesma memória
+(ASMP):  ocorre em um sistema computacional com vários processadores com memória compartilhada sob controle de um único sistema operacional.
